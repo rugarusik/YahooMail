@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "senderName": "Sarah Johnson",
+    "senderEmail": "sarah.j@example.com",
+    "subject": "Coffee this weekend?",
+    "preview": "Hey Alina! Would love to catch up over coffee. Are you free Saturday morning?",
+    "date": "2026-02-11T11:16:00Z",
+    "isRead": false,
+    "avatarEmoji": "☕️"
+  },
+  {
+    "id": "2",
+    "senderName": "Mike Chen",
+    "senderEmail": "mike.chen@example.com",
+    "subject": "Book recommendation",
+    "preview": "Just finished reading 'Atomic Habits' and thought of you! You'd love it.",
+    "date": "2026-02-11T09:15:00Z",
+    "isRead": false,
+    "avatarEmoji": "📚"
+  },
+  {
+    "id": "3",
+    "senderName": "Emma Thompson",
+    "senderEmail": "emma.t@example.com",
+    "subject": "Party invitation",
+    "preview": "Having a small gathering next Friday. Hope you can make it!",
+    "date": "2026-02-11T03:16:00Z",
+    "isRead": false,
+    "avatarEmoji": "🎉"
+  },
+  {
+    "id": "4",
+    "senderName": "Alex Martinez",
+    "senderEmail": "alex.m@example.com",
+    "subject": "Movie night plans",
+    "preview": "There's a new sci-fi movie out. Want to go see it this week?",
+    "date": "2026-02-10T18:30:00Z",
+    "isRead": true,
+    "avatarEmoji": "🎬"
+  },
+  {
+    "id": "5",
+    "senderName": "Jessica Lee",
+    "senderEmail": "jess.lee@example.com",
+    "subject": "Yoga class tomorrow",
+    "preview": "Don't forget we have that yoga class at 7am! See you there 🧘‍♀️",
+    "date": "2026-02-10T16:45:00Z",
+    "isRead": true,
+    "avatarEmoji": "🧘‍♀️"
+  },
+  {
+    "id": "6",
+    "senderName": "David Park",
+    "senderEmail": "david.park@example.com",
+    "subject": "Thanks for the help!",
+    "preview": "Really appreciate your help with the project yesterday. You're a lifesaver!",
+    "date": "2026-02-10T14:20:00Z",
+    "isRead": true,
+    "avatarEmoji": "🙏"
+  },
+  {
+    "id": "7",
+    "senderName": "Lisa Wang",
+    "senderEmail": "lisa.w@example.com",
+    "subject": "Birthday surprise",
+    "preview": "Shh! We're planning a surprise party for Tom. Can you help with decorations?",
+    "date": "2026-02-10T11:00:00Z",
+    "isRead": true,
+    "avatarEmoji": "🎂"
+  },
+  {
+    "id": "8",
+    "senderName": "Ryan Cooper",
+    "senderEmail": "ryan.c@example.com",
+    "subject": "Weekend hiking trip",
+    "preview": "Planning a hiking trip to the mountains. Interested? It's gonna be amazing!",
+    "date": "2026-02-10T09:30:00Z",
+    "isRead": true,
+    "avatarEmoji": "⛰️"
+  },
+  {
+    "id": "9",
+    "senderName": "Nina Patel",
+    "senderEmail": "nina.p@example.com",
+    "subject": "Recipe you asked for",
+    "preview": "Here's that lasagna recipe I promised! Let me know how it turns out.",
+    "date": "2026-02-09T20:15:00Z",
+    "isRead": true,
+    "avatarEmoji": "👩‍🍳"
+  },
+  {
+    "id": "10",
+    "senderName": "Tom Anderson",
+    "senderEmail": "tom.a@example.com",
+    "subject": "Game night reminder",
+    "preview": "Board game night is still on for Thursday! Bring your competitive spirit 🎲",
+    "date": "2026-02-09T17:45:00Z",
+    "isRead": true,
+    "avatarEmoji": "🎮"
+  }
+]
